@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "From VS Code Slide"
 ---
 This is my first slide
 Use the left arrow to go back!
